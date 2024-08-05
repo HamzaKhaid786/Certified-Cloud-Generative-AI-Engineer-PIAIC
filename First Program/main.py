@@ -1,0 +1,1 @@
+print("Hamza is the Best Software Developer, Ethical Hakcer and Generative AI Engineer")
